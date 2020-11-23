@@ -53,7 +53,7 @@ player_items = [{"item": potion, "quantity": 15},
                 {"item": hielixer, "quantity": 2},
                 {"item": grenade, "quantity": 2}]
 player1 = Persons("Matul :", 3260, 65, 300, 34, player_spells , player_items)
-player2 = Persons("Angkol:", 4160, 65, 320, 34, player_spells , player_items)
+player2 = Persons("Askar:", 4160, 65, 320, 34, player_spells , player_items)
 player3 = Persons("Rangi :", 3089, 65, 250, 34, player_spells , player_items)
 
 enemy1 = Persons("Imp   :", 1200, 130, 560, 325, enemy_spells, [])
