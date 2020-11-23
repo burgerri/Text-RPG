@@ -1,5 +1,5 @@
 """https://github.com/JosephDelgadillo/python_text_rpg/blob/master/main.py"""
-"""File added to GIT Repository"""
+"""File added to GIT Repository Test"""
 from classes.game import Persons, bcolors
 from classes.magic import Spell
 from classes.inventory import Item
