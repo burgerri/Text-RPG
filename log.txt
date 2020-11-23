@@ -1,3 +1,5 @@
 This is a sample log File
 This file will be ignore
 Further changes to the File
+another change
+more changes
